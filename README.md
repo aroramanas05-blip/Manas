@@ -3,8 +3,8 @@
 
 🎓 CS Student | 🤖 ML & AI Enthusiast | 🌍 Open Source Contributor in the Making
 
-I love building things with Python and exploring the world of Machine Learning and AI. Currently diving deep into **LangChain** and building LLM-powered applications.
-
+I love building things and exploring the world of Machine Learning and AI. Currently diving deep into **LangChain** and building LLM-powered applications.
+ 
 ---
 
 ## 🔭 What I'm up to
