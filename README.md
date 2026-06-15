@@ -1,4 +1,4 @@
-# Manas
+
 # Hi, I'm Manas Arora 👋
 
 🎓 CS Student | 🤖 ML & AI Enthusiast | 🌍 Open Source Contributor in the Making
