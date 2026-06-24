@@ -29,9 +29,9 @@ I love building things and exploring the world of Machine Learning and AI. Curre
 
 ## 📊 GitHub Stats
 
-![Manas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aroramanas05-blip&show_icons=true&theme=tokyonight&hide_border=true)
+![Manas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manasarora24&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aroramanas05-blip&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manasarora24&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
